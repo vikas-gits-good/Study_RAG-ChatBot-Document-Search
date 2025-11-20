@@ -8,6 +8,7 @@ __pycache__/
 
 # Manual
 src/Secrets/
+data/
 
 
 # Distribution / packaging

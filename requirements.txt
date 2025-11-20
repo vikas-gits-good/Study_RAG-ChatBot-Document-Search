@@ -3,12 +3,15 @@ langgraph
 langchain-core
 langchain-openai
 langchain-community
+langchain-experimental
+langchain-huggingface
 faiss-cpu
 openai
 python-dotenv
 wikipedia
-reflex
 pydantic
 beautifulsoup4
 requests
-wikipedia
+streamlit
+ipykernel
+pypdf
