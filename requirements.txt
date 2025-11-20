@@ -1,0 +1,14 @@
+langchain
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+faiss-cpu
+openai
+python-dotenv
+wikipedia
+reflex
+pydantic
+beautifulsoup4
+requests
+wikipedia

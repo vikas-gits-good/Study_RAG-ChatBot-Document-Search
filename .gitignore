@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Manual
+src/Secrets/
+
+
 # Distribution / packaging
 .Python
 build/
